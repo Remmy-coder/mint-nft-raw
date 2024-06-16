@@ -1,0 +1,3 @@
+[submodule "mint"]
+	path = mint
+	url = git@github.com:Remmy-coder/mint-nft-raw.git
